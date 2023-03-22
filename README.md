@@ -18,7 +18,6 @@ Here are some ideas to get you started:
 𝙎𝙀𝙉𝘼𝙄 𝙄𝙋𝙄𝙍𝘼𝙉𝙂𝘼 - 07 
 - 🅿🆁🅾🅶🆁🅰🅼🅰🅳🅾🆁 - 𝘿𝙚𝙨𝙚𝙣𝙫𝙤𝙡𝙫𝙚𝙙𝙤𝙧 𝙃𝙏𝙈𝙇/𝘾𝙎𝙎
 ## Ferramentas e Tecnologia
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="40" height="40" />
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/apple/apple-original.svg"  widht= "40" height="40"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="40" height="40" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/apple/apple-original.svg"  widht= "40" height="40"/>
 
--
+ 
