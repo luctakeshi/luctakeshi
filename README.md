@@ -21,8 +21,9 @@ Here are some ideas to get you started:
 
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" widht="50"  height= "50" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-plain.svg" widht= "50" height= "50" />
 
-## Estou aprendendo
+## Aprendizado
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original-wordmark.svg" widht="50"  height= "50" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original-wordmark.svg" widht="50" height= "50"/>
+<img src="https://www.iconfinder.com/icons/282802/javascript_js_icon" widht="50" height= "50"/>
 
 ## Painel 
 
