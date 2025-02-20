@@ -18,7 +18,10 @@ Here are some ideas to get you started:
 
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" widht="50"  height= "50" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-plain.svg" widht= "50" height= "50" /> 
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/unrealengine/unrealengine-original.svg" widght = "50" height = "50"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/androidstudio/androidstudio-original-wordmark.svg" widght = "50" height = "50"/><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original.svg" widght = "50" height = "50" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/eclipse/eclipse-original.svg" widght = "50" height = "50" />
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" widght = "50" height = "50"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" widght = "50" height = "50"/><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/kotlin/kotlin-original.svg" widght = "50" height = "50" /><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original.svg"  widght = "50" height = "50" /><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/php/php-plain.svg" widght = "50" height = "50" />
+          
+          
+          
           
           
           
@@ -27,7 +30,11 @@ Here are some ideas to get you started:
 
 ## Aprendizado
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original-wordmark.svg" widht="50"  height= "50" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original-wordmark.svg" widht="50" height= "50"/>
-<img src="https://www.iconfinder.com/icons/282802/javascript_js_icon" widht="50" height= "50"/>
+<img src="https://www.iconfinder.com/icons/282802/javascript_js_icon" widht="50" height= "50"/><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg" widht="50" height= "50"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" widht="50" height= "50" /><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" widht="50" height= "50"/>
+          
+          
+          
 
 ## Painel 
 
