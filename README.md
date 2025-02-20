@@ -14,9 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->]
-- 𝕿𝖆𝖐𝖊𝖘𝖍𝖎
-𝙎𝙀𝙉𝘼𝙄 𝙄𝙋𝙄𝙍𝘼𝙉𝙂𝘼 - 07 
-- 🅿🆁🅾🅶🆁🅰🅼🅰🅳🅾🆁 - 𝘿𝙚𝙨𝙚𝙣𝙫𝙤𝙡𝙫𝙚𝙙𝙤𝙧 𝙃𝙏𝙈𝙇/𝘾𝙎𝙎
+
 ## Ferramentas e Tecnologia
 
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" widht="50"  height= "50" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-plain.svg" widht= "50" height= "50" />
