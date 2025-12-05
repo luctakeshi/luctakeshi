@@ -1,4 +1,11 @@
-### Olá, sou Lucas Takeshi 🧑‍💻
+### 👋 Olá! Eu sou Lucas Takeshi Nakama
+
+🎓 Estudante de Ciência de Dados
+📊 Analista de Dados | 👨‍💻 Cientista de Dados em formação
+
+Apaixonado por tecnologia, análise de dados e soluções inteligentes que transformam informação em resultados. Tenho experiência com Python, SQL, Power BI e desenvolvimento de projetos que envolvem automação, visualização de dados e modelagem preditiva.
+
+ Sempre em busca de novos desafios, aprendizado contínuo e oportunidades para criar impacto real com dados.
 <!--
 **luctakeshi/luctakeshi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
